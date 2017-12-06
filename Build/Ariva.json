@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Ariva.data.unityweb",
+"asmCodeUrl": "Ariva.asm.code.unityweb",
+"asmMemoryUrl": "Ariva.asm.memory.unityweb",
+"asmFrameworkUrl": "Ariva.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
